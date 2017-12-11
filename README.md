@@ -10,8 +10,8 @@ Testing Node and NPM
 --------------------
 To check if node and npm are installed or not type in cmd-
 
-    *`node -v` 
-    *`npm -v`
+    `node -v` 
+    `npm -v`
 
 If they are installed, their versions will be printed.
 
@@ -33,7 +33,7 @@ List of tasks
 
 Contributors
 ---------------
-Contributor of this repository is Shivangi.
+Contributor of this repository is Shivangi Srivastava.
 
 License
 --------

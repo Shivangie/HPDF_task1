@@ -31,7 +31,7 @@ List of tasks
 6. Render an HTML page at '/html'.
 7. An input form at '/input' which takes an input and displays the entered value.
 
-Contributors
+Contributor
 ---------------
 Contributor of this repository is Shivangi Srivastava.
 

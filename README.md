@@ -17,9 +17,9 @@ If they are installed, their versions will be printed.
 
 How to run the code 
 -------------------
-To start the server type- `node [filename.js]`
-Go to the link http://localhost:8080 in your browser to run the app.
-Port 8080 is the default port.
+* To run the app in cmd type- `node app.js`
+* Go to the link http://localhost:8080 in your browser to run the app.
+* Port 8080 is the default port.
 
 List of tasks
 --------------

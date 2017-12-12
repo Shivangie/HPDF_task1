@@ -23,13 +23,13 @@ How to run the code
 
 List of tasks
 --------------
-1. Display a Hello-world-[name] at '/'.
-2. Route to '/authors' fetches a list of authors from url  https://jsonplaceholder.typicode.com/users and a list of posts from url  https://jsonplaceholder.typicode.com/posts and the total posts of each author is displayed with a newline for each author.
-3. Set a cookie at '/setcookie' with the following values: name=[your-name] and age=[your-age]
-4. Get cookies at '/getcookies' and display their stored values.
-5. Denry requests to '/robots.txt'.
-6. Render an HTML page at '/html'.
-7. An input form at '/input' which takes an input and displays the entered value.
+1. Display a Hello-world-[name] at 'http://localhost:8080'.
+2. Route to 'http://localhost:8080/authors' fetches a list of authors from url  https://jsonplaceholder.typicode.com/users and a list of posts from url  https://jsonplaceholder.typicode.com/posts and the total posts of each author is displayed with a newline for each author.
+3. Set a cookie at 'http://localhost:8080/setcookie' with the following values: name=[your-name] and age=[your-age]
+4. Get cookies at 'http://localhost:8080/getcookies' and display their stored values.
+5. Denry requests to 'http://localhost:8080/robots.txt'.
+6. Render an HTML page at 'http://localhost:8080/html'.
+7. An input form at 'http://localhost:8080/input' which takes an input and displays the entered value.
 
 Contributor
 ---------------

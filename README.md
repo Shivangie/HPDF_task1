@@ -6,7 +6,7 @@ Prerequisites
 --------------
  Node and npm should be installed
 
-Testing Node and NPM
+Checking installation of Node and NPM
 --------------------
 To check if node and npm are installed or not type in cmd-
 
